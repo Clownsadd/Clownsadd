@@ -1,16 +1,51 @@
-## Hi there 👋
+API_ID=
+API_HASH=
 
-<!--
-**Clownsadd/Clownsadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RANDOM_TURBO_TAPS=
+RANDOM_TAPS=
 
-Here are some ideas to get you started:
+AUTO_APPLY_TURBO=
+AUTO_APPLY_ENERGY=
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AUTO_UPGRADE_DAMAGE=
+MAX_DAMAGE_LEVEL=
+
+AUTO_UPGRADE_RECHARGE=
+MAX_RECHARGE_LEVEL=
+
+AUTO_UPGRADE_ENERGY=
+MAX_ENERGY_LEVEL=
+
+AUTO_BUY_TAPBOT=
+AUTO_CLAIM_AND_START_TAPBOT=
+AUTO_SPIN=
+
+AUTO_COMPLETE_TASKS=
+
+MIN_AVAILABLE_ENERGY=
+
+SLEEP_BETWEEN_REQUESTS=
+
+DELAY_BETWEEN_TURBO=
+
+DELAY_BETWEEN_TAPS=
+
+DELAY_BETWEEN_TASKS=
+
+USE_REGISTRATION_PROXY=
+
+USE_PROXY_FROM_JS_FILE=
+
+USE_PROXY_FROM_TXT_FILE=
+
+DELAY_BETWEEN_STARTING_BOT=
+
+USE_CODES_FROM_FILE=
+
+AUTO_TAPPING=
+
+MAX_CONCURRENT_ACCOUNT=
+
+USE_NON_THREAD=
+
+SLEEP_BETWEEN_NON_THREADS=
